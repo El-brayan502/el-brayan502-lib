@@ -2,7 +2,7 @@
 
 # liora-lib
 
-¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo![Liora](https://cdn.yupra.my.id/yp/unvmpn71.jpg)
+[Liora](https://cdn.yupra.my.id/yp/unvmpn71.jpg)
 
 </div>
 
