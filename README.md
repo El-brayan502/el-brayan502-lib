@@ -2,7 +2,7 @@
 
 # liora-lib
 
-![Liora](https://qu.ax/Gamil.jpg)
+¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo¡Sólo![Liora](https://cdn.yupra.my.id/yp/unvmpn71.jpg)
 
 </div>
 
@@ -19,43 +19,43 @@ This library is optimized and tested primarily on **Linux (Ubuntu 24 LTS)** envi
 - **Prebuilt binaries** for Linux (x64, arm64)  
 - **Automatic fallback to local build** if no prebuild exists  
 - **FFmpeg-based converter** with audio/video support  
-- **Sticker toolkit** with WebP encoder and EXIF metadata support  
-- **Cron-like scheduler** implemented in native code  
-- **Native fetch()** implementation using a high-speed HTTP backend  
+- **Kit de herramientas de pegatinas** con el codificador WebP y el soporte de metadatos EXIF 
+- **Programador tipo Cron** implementado en código nativo. 
+- **Tracción nativa ()** Implementación utilizando un backend HTTP de alta velocidad 
 
-## Recommended Environment
+## Ambiente recomendado.
 
-- **Operating System:** Ubuntu 24.04 LTS (recommended)  
-- **Node.js Version:** 22 or later  
-- **Compiler Toolchain:** GCC / Clang with build-essential and Python 3  
-- **Runtime:** Full ES Module support  
+- **Sistema operativo:** Ubuntu 24.04 LTS (recomendado) 
+- **Versión de node.js:** 22 o más tarde. 
+- **Cadena de herramientas del compilador:** GCC / Clang con build-essential y Python 3 
+- **Tiempo de ejecución:** Soporte completo del módulo ES 
 
-## Modules Overview
+## Resumen de módulos
 
-| Module | Description |
+| Módulo | Descripción |
 |---------|--------------|
-| `convert` | High-performance media converter using FFmpeg backend |
-| `sticker` | WebP encoder and EXIF injector for sticker creation |
-| `cron` | Lightweight scheduler implemented in native C++ |
-| `fetch` | Native HTTP client with low-level performance optimization |
+| "Convertir" | Convertidor de medios de alto rendimiento utilizando backend FFmpeg |
+| "Sticker" | Codificador WebP e inyector EXIF para la creación de pegatinas |
+| 'Cron' | Programador ligero implementado en C++ nativo |
+| 'fetch' | Cliente HTTP nativo con optimización de rendimiento de bajo nivel |
 
-## Installation
+## Instalación
 
-```bash
+"'Bashh
 pnpm add liora-lib
-# or
+# o o
 yarn add liora-lib
-# or
+# o o
 npm install liora-lib
 ```
 ---
 
-## Usage Example
+Ejemplo de uso ##
 
 The following examples show how to use **Liora-lib** for real-world use cases — including cron scheduling, media conversion, sticker creation, and optimized HTTP fetching.  
 All functions are available as ES modules and compatible with Node.js 22+.
 
-```js
+"Js.
 import {
   schedule,
   addExif,
