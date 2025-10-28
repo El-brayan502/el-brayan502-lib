@@ -1,6 +1,6 @@
 <div align="center">
 
-# liora-lib
+# liora-lib xd
 
 [Liora](https://cdn.yupra.my.id/yp/unvmpn71.jpg)
 
